@@ -3,7 +3,7 @@
 int main ()
 {
     int i,j ;
-    float k = i/j ;
+    double k = (double)i/j ;
     scanf("%d %d",&i,&j) ;
     
     printf("The result of addiction = %d\n",i+j) ;
