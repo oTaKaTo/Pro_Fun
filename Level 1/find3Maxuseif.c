@@ -20,7 +20,7 @@ int main ()
     }
     else
     {
-        printf("There's not have highest number");
+        printf("There's not have the highest number");
     }
     return 0;
 }
